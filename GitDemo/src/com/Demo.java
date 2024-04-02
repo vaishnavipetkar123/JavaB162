@@ -1,6 +1,7 @@
 package com;
 
 public class Demo {
+	int d=90;
 	
 	public void m1() {
 		System.out.println("This is m1");
