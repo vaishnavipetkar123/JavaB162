@@ -7,6 +7,7 @@ public class Demo {
 	}
 
 	public void m2() {
+		int a=90;
 		System.out.println("This is m2");
 	}
 	public void m3() {
